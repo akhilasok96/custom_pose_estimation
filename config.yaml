@@ -1,4 +1,4 @@
-path: /content/gdrive/My Drive/data/
+path: /Users/akhil96/Desktop/fx/Courses/yolo_pose_code/custom_pose _estimation/data
 train: images/train
 val: images/val
 
